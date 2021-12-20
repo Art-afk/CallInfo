@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "GnEpkJQmbuggYr4Vx4iXTxDzfA3OheRVG5ax8V0aG/snaeld79V0bHZMVp2uCxc4kc+BGJLLy12MLFFvT8B4uw==",
+  "success": true,
+  "projectFilePath": "C:\\APP\\CallInfo\\CallInfo\\CallInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.animated.vector.drawable\\28.0.0.3\\xamarin.android.support.animated.vector.drawable.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.annotations\\28.0.0.3\\xamarin.android.support.annotations.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.compat\\28.0.0.3\\xamarin.android.support.compat.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.core.ui\\28.0.0.3\\xamarin.android.support.core.ui.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.core.utils\\28.0.0.3\\xamarin.android.support.core.utils.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.customtabs\\28.0.0.3\\xamarin.android.support.customtabs.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.design\\28.0.0.3\\xamarin.android.support.design.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.fragment\\28.0.0.3\\xamarin.android.support.fragment.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.media.compat\\28.0.0.3\\xamarin.android.support.media.compat.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.transition\\28.0.0.3\\xamarin.android.support.transition.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.v7.appcompat\\28.0.0.3\\xamarin.android.support.v7.appcompat.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.v7.recyclerview\\28.0.0.3\\xamarin.android.support.v7.recyclerview.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.vector.drawable\\28.0.0.3\\xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
